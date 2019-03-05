@@ -1,1 +1,1 @@
-# Pedestrian-detection-bu-Hog-and-SVM
+# Pedestrian-detection-by-Hog-and-SVM
